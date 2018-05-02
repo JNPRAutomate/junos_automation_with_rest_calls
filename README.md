@@ -13,7 +13,6 @@
     - [**how to make REST calls with curl**](README.md#how-to-make-rest-calls-with-curl)
     - [**how to make REST calls with python**](README.md#how-to-make-rest-calls-with-python)
     - [**how to make REST calls with ansible**](README.md#how-to-make-rest-calls-with-ansible)
-- [**Looking for more Junos automation solutions**](README.md#looking-for-more-junos-automation-solutions)
 
 # What to find in this repository
 
@@ -336,10 +335,3 @@ dc-vmx-4                   : ok=3    changed=1    unreachable=0    failed=0
 $ ls junos/dc-vmx-3/
 get-bgp-neighbor-information_output.json  get-software-information_output.json  rpc_output.json
 ```
-
-# Looking for more Junos automation solutions
-
-https://github.com/ksator?tab=repositories  
-https://gitlab.com/users/ksator/projects  
-https://gist.github.com/ksator/  
-
